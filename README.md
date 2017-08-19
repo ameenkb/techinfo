@@ -1,6 +1,8 @@
-### TECHNICAL INFORMATION
+## TECHNICAL INFORMATION
 
-- **THINGIVERSE**
+![Break](https://raw.githubusercontent.com/ameenkb/ameenkb.github.io/master/Images/Blank.png)
+
+### THINGIVERSE
 
 ![Thingiverse](https://www.3yourmind.com/hs-fs/hubfs/plugins/logos/thingiverse-logo.png?t=1501675384586&width=816&name=thingiverse-logo.png)
 
@@ -10,7 +12,7 @@ Thingiverse is widely used in the DIY technology and Maker communities, by the R
 
 ![Break](https://raw.githubusercontent.com/ameenkb/ameenkb.github.io/master/Images/Blank.png)
 
-- **INSTRUCTABLES**
+### INSTRUCTABLES
 
 ![Instructables](https://cdn.instructables.com/FYN/MBOI/GGC2UGB5/FYNMBOIGGC2UGB5.LARGE.gif)
 
@@ -18,7 +20,7 @@ Instructables is a website specializing in user-created and uploaded do-it-yours
 
 ![Break](https://raw.githubusercontent.com/ameenkb/ameenkb.github.io/master/Images/Blank.png)
 
-- **GRABCAD**
+### GRABCAD
 
 ![GrabCAD](http://heroestoo.org/wp-content/uploads/2015/10/grabcad-logo-vector21.png)
 
@@ -28,7 +30,7 @@ GrabCAD evolved into a community for engineers to share CAD models and moved its
 
 ![Break](https://raw.githubusercontent.com/ameenkb/ameenkb.github.io/master/Images/Blank.png)
 
-- **CNC (COMPUTER NUMERICAL CONTROL)**
+### CNC (COMPUTER NUMERICAL CONTROL)
 
 ![CNC](https://i.pinimg.com/originals/08/fd/88/08fd882dcd07b42ba686e7c25f5463aa.jpg)
 
@@ -38,7 +40,7 @@ In modern CNC systems, the design of a mechanical part and its manufacturing pro
 
 ![Break](https://raw.githubusercontent.com/ameenkb/ameenkb.github.io/master/Images/Blank.png)
 
-- **GITHUB**
+### GITHUB
 
 ![GitHub](https://assets-cdn.github.com/images/modules/logos_page/GitHub-Logo.png)
 
@@ -48,7 +50,7 @@ GitHub offers both plans for private and free repositories on the same account w
 
 ![Break](https://raw.githubusercontent.com/ameenkb/ameenkb.github.io/master/Images/Blank.png)
 
-- **ULTIMAKER**
+### ULTIMAKER
 
 ![Ultimaker](https://upload.wikimedia.org/wikipedia/en/thumb/9/93/Ultimaker_logo.svg/1280px-Ultimaker_logo.svg.png)
 
@@ -58,7 +60,7 @@ Ultimaker's 3D printers currently print using acrylonitrile butadiene styrene (A
 
 ![Break](https://raw.githubusercontent.com/ameenkb/ameenkb.github.io/master/Images/Blank.png)
 
-- **CURA**
+### CURA
 
 ![Cura](https://www.goprint3d.co.uk/wp/wp-content/uploads/2016/07/Cura1.png)
 
@@ -66,7 +68,7 @@ Cura is a 3D printer slicing application. It was created by David Braam; he was 
 
 ![Break](https://raw.githubusercontent.com/ameenkb/ameenkb.github.io/master/Images/Blank.png)
 
-- **AUTODESK AUTOCAD**
+### AUTODESK AUTOCAD
 
 ![AutoCAD](http://www.scan2cad.com/wp-content/uploads/2016/12/autodesk-autocad-logo-1024x334.png)
 
@@ -76,7 +78,7 @@ AutoCAD is used across a wide range of industries, by architects, project manage
 
 ![Break](https://raw.githubusercontent.com/ameenkb/ameenkb.github.io/master/Images/Blank.png)
 
-- **RHINOCEROS 3D**
+### RHINOCEROS 3D
 
 ![Rhinoceros](http://www.tilab.com.br/wp-content/uploads/2015/01/rhino.jpg)
 
@@ -84,6 +86,7 @@ Rhinoceros (typically abbreviated Rhino, or Rhino3D) is a commercial 3D computer
 
 Rhinoceros is used in processes of computer-aided design (CAD), computer-aided manufacturing (CAM), rapid prototyping, 3D printing and reverse engineering in industries including architecture, industrial design (e.g. automotive design, watercraft design), product design (e.g. jewelry design) as well as for multimedia and graphic design.
 
-[![Back](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png) BACK TO TOP ![Arrow](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png)](https://ameenkb.github.io/#contents)  [![Back](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png) BACK TO SECTIONAL CONTENTS ![Arrow](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png)](https://ameenkb.github.io/#sectional-contents)
-
 ![Break](https://raw.githubusercontent.com/ameenkb/ameenkb.github.io/master/Images/Blank.png)
+
+[![Back](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png) GO TO HOMEPAGE ![Arrow](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png)](https://ameenkb.github.io)
+  
