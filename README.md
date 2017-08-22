@@ -1,5 +1,7 @@
 ## TECHNICAL INFORMATION
 
+This section includes the information about various technical terms you might come across during the course period.
+
 ![Break](https://raw.githubusercontent.com/ameenkb/ameenkb.github.io/master/Images/Blank.png)
 
 ### THINGIVERSE
